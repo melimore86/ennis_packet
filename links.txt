@@ -1,0 +1,8 @@
+Happy Git with R
+https://happygitwithr.com/
+
+Data Carpentry for Biologist
+http://datacarpentry.org/semester-biology/
+
+Data Carpentry Lessons
+https://datacarpentry.org/lessons/
